@@ -34,7 +34,7 @@ function main()
     x6_Phosphogluconate =0.808;
     Fructose_1_6_bisphosphate=0.272;
     sedoheptulose_7_phosphate=0.276;
-    Glyceraldehyde_3_Phosphate=6;
+    Glyceraldehyde_3_Phosphate=0.218;
     Erythrose_4_phosphate=0.098;
     Xylulose_5_phosphate=0.138;
     Ribose_5_phosphate=0.398;
