@@ -23,8 +23,7 @@
 function main()
 %Initial conditions vector
     
-
-	x0=zeros(18,1);
+    x0=zeros(18,1);
     Phosphoenol_pyruvate=2.67;
     Extracellular_Glucose=2.0;
     Glucose_6_Phosphate=3.48;
