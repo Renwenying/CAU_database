@@ -30,7 +30,7 @@ function main()
     Glucose_6_Phosphate=3.48;
     Pyruvate =2.67;
     Fructose_6_Phosphate=0.6;
-    Glucose_1_Phosphate=100;
+    Glucose_1_Phosphate=0.653;
     x6_Phosphogluconate =0.808;
     Fructose_1_6_bisphosphate=0.272;
     sedoheptulose_7_phosphate=0.276;
